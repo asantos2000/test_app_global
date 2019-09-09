@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-09-09 19:24:11">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="test_app_global">8ec628e9db77f3006a6ad001cf961908</application>
+<application_name>test_app_global</application_name>
+<application_scope>global</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>test_app_global – 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>ebe66461dbb7f3006a6ad001cf961978</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 19:24:09</sys_created_on>
+<sys_id>a5076861dbb7f3006a6ad001cf96192f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 19:24:09</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="test_app_global">8ec628e9db77f3006a6ad001cf961908</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_c2c66461dbb7f3006a6ad001cf96193d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>test_app_global</name><order/><roles>test_app_global_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-09 19:23:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c2c66461dbb7f3006a6ad001cf96193d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>test_app_global</sys_name><sys_overrides/><sys_package display_value="test_app_global" source="8ec628e9db77f3006a6ad001cf961908">8ec628e9db77f3006a6ad001cf961908</sys_package><sys_policy/><sys_scope display_value="test_app_global">8ec628e9db77f3006a6ad001cf961908</sys_scope><sys_update_name>sys_app_application_c2c66461dbb7f3006a6ad001cf96193d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-09 19:23:06</sys_updated_on><title>test_app_global</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-286478845</payload_hash>
+<remote_update_set display_value="test_app_global – 1.0.0">a5076861dbb7f3006a6ad001cf96192f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 19:24:09</sys_created_on>
+<sys_id>2d076861dbb7f3006a6ad001cf96192f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d177b602b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 19:24:09</sys_updated_on>
+<table/>
+<target_name>test_app_global</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>23e66461ceb7f300475ad070ffd09a7e</update_guid>
+<update_guid_history>23e66461ceb7f300475ad070ffd09a7e:-286478845,4ac6646143b7f300c150dc941cc76e9f:-286478845,06c6646147b7f300820e9e1445ba103e:-336360378</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="test_app_global">8ec628e9db77f3006a6ad001cf961908</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_8ec628e9db77f3006a6ad001cf961908</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="test_app_global">c2c66461dbb7f3006a6ad001cf96193d</menu><name>test_app_global</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>global</scope><scoped_administration>false</scoped_administration><short_description/><source>8ec628e9db77f3006a6ad001cf961908</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-09 19:23:05</sys_created_on><sys_id>8ec628e9db77f3006a6ad001cf961908</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-09 19:23:05</sys_updated_on><template/><trackable>true</trackable><user_role display_value="test_app_global_user" name="test_app_global_user">46c66461dbb7f3006a6ad001cf96193f</user_role><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-97356907</payload_hash>
+<remote_update_set display_value="test_app_global – 1.0.0">a5076861dbb7f3006a6ad001cf96192f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 19:24:09</sys_created_on>
+<sys_id>69076861dbb7f3006a6ad001cf96192f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d177b60030000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 19:24:09</sys_updated_on>
+<table/>
+<target_name>test_app_global</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>2fe66461dfb7f30045b4331e0bb1937a</update_guid>
+<update_guid_history>2fe66461dfb7f30045b4331e0bb1937a:-97356907,8ec6646178b7f30008ec408290d8de9c:-97356907</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="test_app_global">8ec628e9db77f3006a6ad001cf961908</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_46c66461dbb7f3006a6ad001cf96193f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>test_app_global_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-09 19:23:05</sys_created_on><sys_id>46c66461dbb7f3006a6ad001cf96193f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test_app_global_user</sys_name><sys_package display_value="test_app_global" source="8ec628e9db77f3006a6ad001cf961908">8ec628e9db77f3006a6ad001cf961908</sys_package><sys_policy/><sys_scope display_value="test_app_global">8ec628e9db77f3006a6ad001cf961908</sys_scope><sys_update_name>sys_user_role_46c66461dbb7f3006a6ad001cf96193f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-09 19:23:05</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-4795598</payload_hash>
+<remote_update_set display_value="test_app_global – 1.0.0">a5076861dbb7f3006a6ad001cf96192f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 19:24:09</sys_created_on>
+<sys_id>ed076861dbb7f3006a6ad001cf96192f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d177b60140000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 19:24:09</sys_updated_on>
+<table/>
+<target_name>test_app_global_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>67e664610cb7f300571b0499d8cf207c</update_guid>
+<update_guid_history>67e664610cb7f300571b0499d8cf207c:-4795598,4ec6646183b7f3003dab95781a8e9a41:704057096</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
